@@ -42,7 +42,7 @@
 
 ###
 
-<p align="center">Ways of communication</p>
+<h2 align="center">Ways of communication</h2>
 
 ###
 
