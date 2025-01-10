@@ -70,4 +70,9 @@
         <td>Project link</td>
         <td>Project Update</td>
     </tr>
+    <tr>
+        <td>Project name</td>
+        <td>Project link</td>
+        <td>Project Update</td>
+    </tr>
 </table>
