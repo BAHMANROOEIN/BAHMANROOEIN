@@ -68,11 +68,13 @@
     <tr>
         <td>Project name</td>
         <td>Project link</td>
+        <td>Training course</td>
         <td>Project Update</td>
     </tr>
     <tr>
         <td>Speech_To_Text</td>
         <td><a href="https://github.com/BAHMANROOEIN/Speech_To_Text" target="_blank">repositorie</a></td>
+        <td>-</td>
         <td>1403/11/07</td>
     </tr>
 </table>
