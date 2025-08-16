@@ -34,10 +34,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="30" alt="adobeillustrator logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
 </div>
 
@@ -71,10 +67,17 @@
         <td>Training course</td>
         <td>Project Update</td>
     </tr>
-    <tr>
-        <td>Speech_To_Text</td>
-        <td><a href="https://github.com/BAHMANROOEIN/Speech_To_Text" target="_blank">repositorie</a></td>
-        <td><a href="https://www.daneshjooyar.com/speech-processing/" target="_blank" rel="noopener noreferrer">course</a></td>
-        <td>1403/11/07</td>
+          <tr>
+          <td>Excel-Files-in-Python</td>
+          <td><a href="https://github.com/BAHMANROOEIN/Excel-Files-in-Python" target="_blank">repositorie</a></td>
+          <td><a target="_blank" rel="noopener noreferrer">coming soon</a></td>
+          <td>1404/05/25</td>
     </tr>
+    <tr>
+          <td>Speech_To_Text</td>
+          <td><a href="https://github.com/BAHMANROOEIN/Speech_To_Text" target="_blank">repositorie</a></td>
+          <td><a href="https://www.daneshjooyar.com/speech-processing/" target="_blank" rel="noopener noreferrer">course</a></td>
+          <td>1403/11/07</td>
+      </tr>
+
 </table>
