@@ -70,7 +70,7 @@
           <tr>
           <td>Excel-Files-in-Python</td>
           <td><a href="https://github.com/BAHMANROOEIN/Excel-Files-in-Python" target="_blank">repositorie</a></td>
-          <td><a target="_blank" rel="noopener noreferrer">coming soon</a></td>
+          <td><a href="https://www.daneshjooyar.com/excel-in-python/" target="_blank" rel="noopener noreferrer">course</a></td>
           <td>1404/05/25</td>
     </tr>
     <tr>
